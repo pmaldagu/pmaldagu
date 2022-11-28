@@ -1,8 +1,8 @@
 ### Hi, I'm Pierre.
 
-I'm a student at 19network42
+I'm a student at 19network42.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaldagu&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaldagu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pmaldagu/pmaldagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
