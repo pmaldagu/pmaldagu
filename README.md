@@ -1,4 +1,6 @@
-### Hi, I'm Pierre
+### Hi, I'm Pierre.
+
+I'm a student at 19network42
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaldagu&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
